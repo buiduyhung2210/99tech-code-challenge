@@ -1,0 +1,27 @@
+{
+  "name": "99tech-code-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "prob4": "tsx src/problem4/index.ts",
+    "prob5": "tsx src/problem4/index.ts",
+    "prob6": "tsx src/problem4/index.ts"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/buiduyhung2210/99tech-code-challenge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/buiduyhung2210/99tech-code-challenge/issues"
+  },
+  "homepage": "https://github.com/buiduyhung2210/99tech-code-challenge#readme"
+}
