@@ -35,7 +35,7 @@ const sumToN = (N: number): number => {
 };
 // Time Complexity: O(1)  This solution uses a  mathematical formula does not use loops or recursion.
 // Space Complexity:  O(1) The amount of extra space used does not grow based on N. It remains constant
-
+//Test cases
 console.log("sumToN:",sumToN(5));   // Output: 15
 console.log("sumToN:",sumToN(-5));  // Output: -15
 console.log("sumToN:",sumToN(0));   // Output: 0
@@ -52,7 +52,7 @@ const sumToNBitwise = (N: number): number => {
 
 // Time Complexity: O(1)  This solution uses a mathematical formula and Bitwise operations are constant time operations.
 // Space Complexity:  O(1) The amount of extra space used does not grow based on N. It remains constant
-// Example Usage
+// Test cases 
 console.log("sumToNBitwise:",sumToNBitwise(5));   // Output: 15
 console.log("sumToNBitwise:",sumToNBitwise(-5));  // Output: -15
 console.log("sumToNBitwise:",sumToNBitwise(0));   // Output: 0

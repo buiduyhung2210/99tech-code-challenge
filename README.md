@@ -9,7 +9,9 @@ This repository contains solutions for the j99tecg code challenge.
 
 ## How to Run
 
-### Problem 4: Code a Function
-To run the function solution:
-```bash
-npm run prob4
+### Problem 4: 
+- npm run prob4
+### Problem 5: 
+- npm run prob5
+### Problem 6: 
+- npm run prob6

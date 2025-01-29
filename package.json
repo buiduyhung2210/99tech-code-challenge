@@ -6,10 +6,15 @@
   "main": "index.js",
   "scripts": {
     "prob4": "tsx src/problem4/index.ts",
-    "prob5": "tsx src/problem4/index.ts",
+    "prob5": "tsx src/problem5/index.ts",
     "prob6": "tsx src/problem4/index.ts"
   },
   "devDependencies": {
+    "@types/cors": "^2.8.17",
+    "@types/express": "^5.0.0",
+    "@types/node": "^22.12.0",
+    "@types/sequelize": "^4.28.20",
+    "nodemon": "^3.1.9",
     "ts-node": "^10.9.2",
     "tsx": "^4.19.2",
     "typescript": "^5.7.3"
@@ -25,6 +30,11 @@
   },
   "homepage": "https://github.com/buiduyhung2210/99tech-code-challenge#readme",
   "dependencies": {
-    "99tech-code-challenge": "file:"
+    "99tech-code-challenge": "file:",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "sequelize": "^6.37.5",
+    "sqlite3": "^5.1.7"
   }
 }

@@ -1,7 +1,7 @@
 {
     "compilerOptions": {
       "target": "ES6",              // Or "ESNext"
-      "module": "ESNext",           // Use ES Modules
+      "module": "CommonJS",           // Use ES Modules
       "moduleResolution": "node",   // Ensure correct module resolution for Node
       "esModuleInterop": true,      // Enable import/export for CommonJS modules
       "outDir": "./dist",           // Output directory for compiled files
