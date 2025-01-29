@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/buiduyhung2210/99tech-code-challenge/issues"
   },
-  "homepage": "https://github.com/buiduyhung2210/99tech-code-challenge#readme"
+  "homepage": "https://github.com/buiduyhung2210/99tech-code-challenge#readme",
+  "dependencies": {
+    "99tech-code-challenge": "file:"
+  }
 }
