@@ -13,5 +13,3 @@ This repository contains solutions for the j99tecg code challenge.
 - npm run prob4
 ### Problem 5: 
 - npm run prob5
-### Problem 6: 
-- npm run prob6
